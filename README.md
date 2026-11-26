@@ -7,7 +7,7 @@
 - **PLC / HMI / SCADA**: LS ELECTRIC XG5000, MITSUBISHI GX Works2, CIMON SCADA, XP-Builder
 - **Database / IoT**: MySQL, MongoDB, Node-RED, MQTT
 - **Embedded / Firmware**:  ESP32, FA-duino(Comfile), HMI(Comfile), C/C++
-- **Hardware % CAD**: 시퀀스 회로 설계, 전장 배선, Fusion 360, Sketch up, Blender
+- **Hardware & CAD**: 시퀀스 회로 설계, 전장 배선, Fusion 360, Sketch up, Blender
 
 ## 프로젝트 목록
 
